@@ -1,6 +1,6 @@
 #🖥️ Atila Silva
 
-**`Desenvolvedora Back-end`**
+**`Desenvolvedor Back-end`**
 
 Me chamo Átila Silva, tenho 21 anos e sou natural de Salvador. Concluí o ensino médio no CEEP, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Senai.
 
